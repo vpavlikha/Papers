@@ -9,7 +9,7 @@ This repository contains a selection of academic and independent research papers
 **Abstract:**  
 This paper explores the practical implementation of the ARIMA (AutoRegressive Integrated Moving Average) model for time series forecasting using both R and Python. We apply the model to real-world financial datasets, compare the outputs, and discuss best practices and challenges in cross-platform statistical modeling.
 
-📄 **[Read the paper](.Papers/ Application of Fourier transformation to signal processing implied by ARIMA model.pdf)**
+📄 **[Read the paper](Application of Fourier transformation to signal processing implied by ARIMA model.pdf)**
 
 ---
 
@@ -27,7 +27,7 @@ This thesis investigates how financial entrepreneurship and crowdfunding platfor
 **Summary:**  
 This one-page version of the thesis distills the main findings and strategic insights, focusing on the role of digital platforms, storytelling, and transparency in mobilizing global support for Ukraine through financial entrepreneurship.
 
-📄 **[1-page summary](.Pavlikha_Thesis_outline.pdf)**
+📄 **[1-page summary](Pavlikha_Thesis_outline.pdf)**
 
 ---
 
