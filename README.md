@@ -9,7 +9,7 @@ This repository contains a selection of academic and independent research papers
 **Abstract:**  
 This paper explores the practical implementation of the ARIMA (AutoRegressive Integrated Moving Average) model for time series forecasting using both R and Python. We apply the model to real-world financial datasets, compare the outputs, and discuss best practices and challenges in cross-platform statistical modeling.
 
-📄 **[Read the paper](Application of Fourier transformation to signal processing implied by ARIMA model.pdf)**
+📄 **[Read the paper]([Application of Fourier transformation to signal processing implied by ARIMA model.pdf](https://github.com/vpavlikha/Papers/blob/main/Application%20of%20Fourier%20transformation%20to%20signal%20processing%20implied%20by%20ARIMA%20model.pdf))**
 
 ---
 
