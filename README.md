@@ -37,5 +37,5 @@ Unless otherwise stated, all content in this repository is provided for educatio
 ## Contact
 Feel free to reach out with questions or collaboration ideas.
 
-📧 [Your Email]  
-🌐 [Your LinkedIn or Website]
+📧 viktor.pavlikha@gmail.com 
+🌐 www.linkedin.com/in/viktor-pavlikha/
