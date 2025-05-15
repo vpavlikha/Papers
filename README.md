@@ -4,7 +4,7 @@ This repository contains a selection of academic and independent research papers
 
 ## Contents
 
-### 1.Application of Fourier transformation to signal processing implied by ARIMA model (Co-authored)
+### 1. Application of Fourier transformation to signal processing implied by ARIMA model (Co-authored)
 **Title:** *Forecasting with ARIMA: A Comparative Application in R and Python*  
 **Abstract:**  
 This paper explores the practical implementation of the ARIMA (AutoRegressive Integrated Moving Average) model for time series forecasting using both R and Python. We apply the model to real-world financial datasets, compare the outputs, and discuss best practices and challenges in cross-platform statistical modeling.
